@@ -1,12 +1,12 @@
 # Git-Commands
-1. How do I properly force a Git push? [**Force push**]
+## How do I properly force a Git push? [**Force push**]
 
    `git push origin [your_branch_name] --force`
    ```
    git push origin main --force
     ```
    
-2. Changes not staged for commit problem [**Staged Changes**]
+## Changes not staged for commit problem [**Staged Changes**]
 
     committing these changes requires two phases
      - first phase is adding those changes to the **staging area** [ In the staging area these changes would be called staged changes ]
