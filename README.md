@@ -25,7 +25,7 @@ OR
 
 Add all new and changed files to the staging area
    
-`git add -A	`
+`git add -A`
 
 To take snapshot
 
