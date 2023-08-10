@@ -6,7 +6,8 @@
  `git push origin [your_branch_name] --force`
    
    Example: git push origin main --force
-
+- - - 
+ 
    
 
 
@@ -32,7 +33,7 @@ To take snapshot
 `git commit -m "[commit message]"`
 
 Now you can push
-
+- - - 
 
 
 
