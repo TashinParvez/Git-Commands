@@ -16,6 +16,10 @@
 
     `git add [file-name]`
 
+    OR
+    Add all new and changed files to the staging area
+    `git add -A	`
+
     To take snapshot
 
     `git commit -m "[commit message]"`
