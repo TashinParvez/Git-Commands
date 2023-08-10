@@ -5,6 +5,7 @@
    ```
    git push origin main --force
     ```
+   
 2. Changes not staged for commit problem [**Staged Changes**]
 
     committing these changes requires two phases
@@ -24,6 +25,11 @@
     To take snapshot
 
     `git commit -m "[commit message]"`
+
+   Now you can push
+   
+
+4. 
 
 
 
