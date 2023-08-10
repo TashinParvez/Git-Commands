@@ -3,7 +3,7 @@
 
    `git push origin [your_branch_name] --force`
    ```http
-    git push origin main --force
+   \\  git push origin main --force
     ```
 3. Changes not staged for commit [**Staged Changes**]
 
