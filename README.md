@@ -7,5 +7,7 @@
     ```
 3. Changes not staged for commit [**Staged Changes**]
 
-    committing these changes requires two phases the first phase is is adding those changes to the staging area and in the staging area these changes would be called staged changes and the second phase is taking a snapshot of the staging area
+    committing these changes requires two phases
+     - first phase is adding those changes to the staging area and in the staging area these changes would be called staged changes
+     - second phase is taking a snapshot of the staging area 
    
