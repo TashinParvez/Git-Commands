@@ -38,7 +38,13 @@ Now you can push
 
 
 ## How to add all untracked files
+`git add -A`
 
+## How to create a new Branch
+`git checkout -b new_branch_name`
+
+
+## How to Switch to an Existing Branch
  
-
+`git checkout branch_name`
 
